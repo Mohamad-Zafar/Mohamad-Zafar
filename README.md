@@ -20,9 +20,9 @@ I am Mohamad, a 3rd year Software Engneering Student in University of Bahrain. I
 
 # 🔧 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ffeded?style=for-the-badge&logo=java&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-yellow?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-important?style=for-the-badge&logo=Django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-success?style=for-the-badge&logo=Django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
 
 # CONTACT ME 📫
