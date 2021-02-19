@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 __About me:__  I am Mohamad, a 3rd year Software Engneering Student in University of Bahrain. I've an undying passion for tech, people, innovation and learning more about programming every single day. I have wide interests, but top of them is Web development. In my free time, I love to read books, play games, read spritual texts, and surf social media. 
+# 🔭 __About me:__ 
+I am Mohamad, a 3rd year Software Engneering Student in University of Bahrain. I've an undying passion for tech, people, innovation and learning more about programming every single day. I have wide interests, but top of them is Web development. In my free time, I love to read books, play games, read spritual texts, and surf social media. 
 
 # 🔧 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
