@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 __About me:__  I am Mohamad, a 3rd year Software Engneering Student. In my free time, I love to read books, play games, read spritual texts, and surf social media. 
+🔭 __About me:__  I am Mohamad, a 3rd year Software Engneering Student in University of Bahrain. I've an undying passion for tech, people, innovation and learning more about programming every single day. I have wide interests, but top of them is Web development. In my free time, I love to read books, play games, read spritual texts, and surf social media. 
+
+# 🔧 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 # CONTACT ME 📫
 <a href="mailto:mohammadzafar749@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="mohammadzafar749@gmail.com" height="25" width="35" /> [Email](mailto:mohammadzafar749@gmail.com)
