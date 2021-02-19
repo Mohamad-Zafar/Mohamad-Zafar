@@ -20,10 +20,11 @@ I am Mohamad, a 3rd year Software Engneering Student in University of Bahrain. I
 
 # 🔧 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ffeded?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ffccc2?style=for-the-badge&logo=java&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-yellow?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-success?style=for-the-badge&logo=Django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
+![WebDev](https://img.shields.io/badge/WebDev-orange?style=for-the-badge&logo=mysql&logoColor=white)
 
 # CONTACT ME 📫
 <a href="mailto:mohammadzafar749@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="mohammadzafar749@gmail.com" height="25" width="35" /> [Email](mailto:mohammadzafar749@gmail.com)
