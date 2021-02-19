@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mohamadzafar/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-icon-eps/linkedin-icon-eps-29.jpg" alt="mohamadzafar" height="25" width="25" /> [LinkedIn](https://www.linkedin.com/in/mohamadzafar/)
 
 <a href="https://twitter.com/MohamadZafar8" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="MohamadZafar8" height="25" width="25" />  [Twitter](https://twitter.com/MohamadZafar8)
+
+<a href="https://www.linkedin.com/in/mohamadzafar/" target="blank"><img align="center" src="https://icon-library.net/icon/instagram-logo-icon-24.html" alt="mohamadzafar" height="25" width="25" /> [Instagram](https://www.linkedin.com/in/mohamadzafar/)
+  
+<a href="https://www.instagram.com/_.mohammad17/">
+<img align="left"  width="40px" src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif" /></a>
