@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://twitter.com/MohamadZafar8">
+  <img align="left" width="40px" src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" />
+</a>
+<a href="https://www.instagram.com/_.mohammad17/">
+  <img align="left"  width="40px" src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif" /></a>
