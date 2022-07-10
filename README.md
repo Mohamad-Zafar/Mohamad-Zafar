@@ -25,9 +25,9 @@ I am Mohamad, a 4rd year Software Engneering Student in University of Bahrain. I
 ![Django](https://img.shields.io/badge/Django-success?style=for-the-badge&logo=Django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
 ![WebDev](https://img.shields.io/badge/WebDev-critical?style=for-the-badge&logo=mysql&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-critical?style=for-the-badge&logo=ionic&logoColor=white
+![Ionic](https://img.shields.io/badge/Ionic-critical?style=for-the-badge&logo=ionic&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-critical?style=for-the-badge&logo=PHP&logoColor=white)
-![Softare Engineer](https://img.shields.io/badge/Softare Engineer-critical?style=for-the-badge&logo=Engineer&logoColor=white)
+![Softare Engineer](https://img.shields.io/badge/Softare-Engineer-critical?style=for-the-badge&logo=Engineer&logoColor=white)
 
 # CONTACT ME 📫
 <a href="mailto:mohammadzafar749@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="mohammadzafar749@gmail.com" height="25" width="35" /> [Email](mailto:mohammadzafar749@gmail.com)
