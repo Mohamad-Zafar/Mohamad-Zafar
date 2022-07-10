@@ -30,7 +30,7 @@ I am Mohamad, a 4rd year Software Engneering Student in University of Bahrain. I
 ![Softare Engineer](https://img.shields.io/badge/Softare-Engineer-critical?style=for-the-badge&logo=Engineer&logoColor=white)
 
 # CONTACT ME 📫
-<a href="mailto:mohammadzafar749@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="mohammadzafar749@gmail.com" height="25" width="35" /> [Email](mailto:mohammadzafar749@gmail.com)
+<a href="mailto:mohammadzafar749@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="mohammadzafar749@gmail.com" height="25" width="35" /> [Email](mailto:mohammadzafar749@gmail.com)
 
 <a href="https://www.linkedin.com/in/mohamadzafar/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-icon-eps/linkedin-icon-eps-29.jpg" alt="mohamadzafar" height="25" width="25" /> [LinkedIn](https://www.linkedin.com/in/mohamadzafar/)
 
