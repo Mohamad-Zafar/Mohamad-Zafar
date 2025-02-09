@@ -1,37 +1,48 @@
-### Hi there 👋, Welcome to my Github Profile
+# **Hi there 👋, Welcome to my GitHub Profile!**  
 
-<!--
-**Mohamad-Zafar/Mohamad-Zafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 **About Me**  
+I’m **Mohamad Zafar**, a passionate **Software Engineer and IT Support Specialist** with a strong background in **software development, IT troubleshooting, and system maintenance**. I hold an **M.Sc. in Artificial Intelligence Systems (GPA: 3.95/4.0)** and a **B.Sc. in Software Engineering (GPA: 3.56/4.0)** from the **University of Bahrain**.  
 
-Here are some ideas to get you started:
+I have **extensive experience in full-stack development, IT support, and software engineering**, working with a range of technologies, including **.NET, .NET MAUI, Python, Java, and web development frameworks**. I enjoy problem-solving, optimizing IT systems, and collaborating with teams to build innovative and efficient solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not coding, I love **reading books, exploring new technologies, playing video games, and diving into spiritual texts**.  
 
-# 🔭 __About me:__ 
-I am Mohamad, a 4rd year Software Engneering Student in University of Bahrain. I've an undying passion for tech, people, innovation and learning more about programming every single day. I have wide interests, but top of them is Web development. In my free time, I love to read books, play games, read spritual texts, and surf social media. 
+---
 
-# 🔧 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ffccc2?style=for-the-badge&logo=java&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-yellow?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-success?style=for-the-badge&logo=Django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
-![WebDev](https://img.shields.io/badge/WebDev-critical?style=for-the-badge&logo=mysql&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3776AB?style=for-the-badge&logo=ionic&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-ffccc2?style=for-the-badge&logo=PHP&logoColor=white)
-![Softare Engineer](https://img.shields.io/badge/Softare-Engineer-yellow?style=for-the-badge&logo=Engineer&logoColor=white)
+## 🔧 **Skills & Technologies**  
 
-# CONTACT ME 📫
-<a href="mailto:mohammadzafar749@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="mohammadzafar749@gmail.com" height="25" width="35" /> [Email](mailto:mohammadzafar749@gmail.com)
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ffccc2?style=for-the-badge&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-<a href="https://www.linkedin.com/in/mohamadzafar/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-icon-eps/linkedin-icon-eps-29.jpg" alt="mohamadzafar" height="25" width="25" /> [LinkedIn](https://www.linkedin.com/in/mohamadzafar/)
+### **Web & Software Development**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)  
 
-<a href="https://twitter.com/MohamadZafar_" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="MohamadZafar_" height="25" width="25" />  [Twitter](https://twitter.com/MohamadZafar_)
+### **Databases & Cloud**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+
+### **IT Support & System Administration**  
+✔️ **Hardware & Software Troubleshooting**  
+✔️ **End-User Support & IT Infrastructure**  
+✔️ **Network Administration & Security**  
+
+---
+
+## 📫 **Contact Me**  
+
+📧 [Email](mailto:mohammadzafar749@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/mohamadzafar/)  
+🐦 [Twitter](https://twitter.com/MohamadZafar_)  
+
+---
+
+### 🚀 **Let's Connect!**  
+I’m always open to collaborating on **exciting projects** and exploring **new opportunities**. Feel free to reach out!  
